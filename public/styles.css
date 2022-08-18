@@ -1,0 +1,9 @@
+html {
+  background-color: #E4E9FD;
+  background-image: -webkit-linear-gradient(65deg, #50CB93 60%, #7DEDFF 40%);
+  min-height: 1000px;
+  font-family: 'helvetica neue';
+}
+body{
+  text-align: center;
+}
